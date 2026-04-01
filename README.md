@@ -40,7 +40,7 @@ notes.pesto
 5://
 ```
 
-![](./assets/usage.mp4)
+![](./assets/usage.gif)
 
 
 # Installation
