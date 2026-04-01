@@ -28,7 +28,7 @@ Pesto is a cli tool that allows you to understand a codebase by querying the com
 - Use the pesto command with a tag to associate the comment with the code
 
 ```sh
-> pesto test1
+> pesto_tool test1
 
 notes.pesto
 2:      Just a test
@@ -39,9 +39,6 @@ notes.pesto
 4:}
 5://
 ```
-
-![](./assets/usage.gif)
-
 
 # Installation
 
@@ -55,5 +52,5 @@ notes.pesto
 cargo build --release
 
 # Move it to your bins
-sudo cp ./target/release/pesto /usr/local/bin/
+sudo cp ./target/release/pesto_tool /usr/local/bin/
 ``
