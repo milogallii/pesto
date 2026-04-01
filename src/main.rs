@@ -1,6 +1,5 @@
 use regex::escape;
 use std::env;
-use std::path::Path;
 use std::process::{Command, Stdio};
 
 fn main() {
