@@ -7,7 +7,7 @@ license = "MIT"
 repository = "https://github.com/milogallii/pesto"  
 readme = "README.md"     
 keywords = ["cli", "comments"] 
-categories = ["cli"]
+categories = ["command-line-utilities"]
       
 [dependencies]
 regex = "1.12.3"
