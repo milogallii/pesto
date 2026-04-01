@@ -21,7 +21,7 @@ Pesto is a cli tool that allows you to understand a codebase by querying the com
 
 - Create a **".pesto"** file in the root of your project and write comments for the code previously tagged
 
-```pesto
+```
   :test1
     Just a test
   test1:
@@ -43,14 +43,16 @@ notes.pesto
 
 ![](./assets/usage.mp4)
 
+--- 
+
 # Installation
 
 ```sh
   cargo install pesto  
 ```
+---
 
 # Build
-
 ```sh
 # Build it like a normal rust project
 cargo build --release
