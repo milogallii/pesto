@@ -39,6 +39,9 @@ notes.pesto
 4:}
 5://
 ```
+# Deps
+
+![ripgrep](https://github.com/burntsushi/ripgrep)
 
 # Installation
 
