@@ -2,6 +2,12 @@
 name = "pesto"
 version = "0.1.0"
 edition = "2024"
-
+description = "Comments should be useful!"
+license = "MIT"          
+repository = "https://github.com/milogallii/pesto"  
+readme = "README.md"     
+keywords = ["cli", "comments"] 
+categories = ["cli"]
+      
 [dependencies]
 regex = "1.12.3"
