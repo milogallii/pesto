@@ -1,6 +1,5 @@
 # Pesto
 
----
 
 ![](./assets/banner.png)
 
@@ -43,14 +42,12 @@ notes.pesto
 
 ![](./assets/usage.mp4)
 
---- 
 
 # Installation
 
 ```sh
   cargo install pesto  
 ```
----
 
 # Build
 ```sh
