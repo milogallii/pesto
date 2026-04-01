@@ -46,7 +46,7 @@ notes.pesto
 # Installation
 
 ```sh
-  cargo install pesto  
+  cargo install pesto_tool  
 ```
 
 # Build
